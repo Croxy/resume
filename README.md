@@ -2,7 +2,7 @@
 
 Welcome to my resume project! I hope you like it! 
 
-The current iteration is a working prototype for a web application I plan on building to help create/edit resumes online. 
+The current iteration is a working prototype (front-end only) for a web application I plan on building to help create/edit resumes online. 
 
 This idea came about when I wanted to update my resume but but specify it in JSON.
 
