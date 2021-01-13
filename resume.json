@@ -6,7 +6,7 @@
     "email": "tr.coxy@gmail.com",
     "phone": "(918)857-1080",
     "website": "http://ryancox.io",
-    "summary": "I am a self-motivated Web Development professional. I work hard to find sensible solutions to both small and complex problems. I have 4+ years of API integration experience where solving these types of problems is an everyday occurrence. I am passionate about continuing my growth as a developer by learning new technologies and practices. I desire a position within a company that can help facilitate this growth.",
+    "summary": "I am a self-motivated Web Development professional. I work hard to find sensible solutions to both small and complex problems. I have 7+ years of payment API integration experience where solving these types of problems is an everyday occurrence. I am passionate about continuing my growth as a developer by learning new technologies and practices. I desire a position within a company that can help facilitate this growth.",
     "location": {
       "address": "1311 W Hot Springs St",
       "postalCode": "74011",
@@ -15,12 +15,6 @@
       "region": "OK"
     },
     "profiles": [
-      {
-        "network": "Twitter",
-        "username": "CyanTrox",
-        "url": "https://twitter.com/CyanTrox",
-        "icon": "fab fa-twitter"
-      },
       {
         "network": "GitHub",
         "username": "Croxy",
@@ -39,13 +33,13 @@
       "summary": "At Bluefin Payment Systems I work as an Integration Engineer. In this position, I am the technical face of Bluefin to its customers and am tasked with guiding them through their API integration experience.",
       "highlights": [
         "Hired as the first Integration employee in the company; tasked with developing processes for both internal and external client management and communication.",
-        "Consulted with our client’s developers to identify their companies business needs, and helped them not only identify the best API calls to use but also helped them architect internal solutions on their end to maximize their use of the APIs.",
-        "Created procedures for assisting integrating partners with debugging API integration issues.",
-        "Worked on multiple high-profile merchant integrations to Bluefin's PayConex payment gateway and Decryptx APIs.  Helped individual merchants, payment gateways, and payment device manufacturers utilize Bluefin’s family of APIs.",
+        "Consulted with integrating developers to identify their companies business needs and assisted them with the best integration paths using Bluefin's API suite and products.",
+        "Assisted integrating partners with debugging API integration issues.",
         "Established processes for API certification for integrating partners.",
-        "Worked alongside the Bluefin development department to understand core functionality of various products in order to provide clear and concise guidance integrating partners. This included writing example code and supplemental documentation.",
+        "Worked alongside the Bluefin development department to understand core functionality of various products in order to provide clear and concise guidance to integrating partners. This included writing example code and supplemental documentation.",
         "Assisted the Bluefin Quality Assurance team with bug reporting and user acceptance testing.",
-        "Digested multiple credit card reader specifications and created JavaScript helper functions for client use. Created multiple web application tools to assist developers with understanding the APIs at a deeper level. These applications are often used by Bluefin's internal development and quality assurance teams as well as by the integrating partners.",
+        "Digested multiple credit card reader specifications and created JavaScript functions for client use in parsing and using these devices.",
+        "Created multiple web application utilities using PHP, CSS, and JavaScript to assist developers with understanding the Bluefin API suites at a deeper level.",
         "Served as a technical sales engineer for high-value prospective customers."
       ]
     }
@@ -63,19 +57,15 @@
       "courses": []
     }
   ],
+
   "awards": [
-    {
-      "title": "Employee Appreciation Award",
-      "date": "2017-12-20",
-      "awarder": "Bluefin Payment Systems",
-      "summary": "In 2017, I was recognized by Bluefin as having exceeded the organization's expectations. During this year, I assisted in many client integrations, and I developed API tools and supplemental API tutorials."
-    }
+    
   ],
   "publications": [],
   "skills": [
     {
       "name": "Web Development",
-      "level": "Intermediate",
+      "level": "Experience with:",
       "keywords": [
         "HTML",
         "CSS",
@@ -83,13 +73,15 @@
         "PHP",
         "MySQL",
         "Git",
-        "Docker",
-        "Linux"
+        "Linux",
+        "Vue.js",
+        "Bulma",
+        "Mustard UI"
       ]
     },
     {
       "name": "API Integration",
-      "level": "Expert",
+      "level": "",
       "keywords": [
         "Reading/understanding technical API documentation.",
         "Writing supplemental API documentation.",
@@ -107,38 +99,25 @@
   ],
   "interests": [
     {
-      "name": "Music",
+      "name": "Mental",
       "keywords": [
         "I have been playing guitar since childhood. I enjoy learning new techniques and information to make myself a better player. I also enjoy going to see live music whenever I get the chance."
       ]
     },
     {
-      "name": "Outdoors",
+      "name": "Physical",
       "keywords": [
-        "Growing in a rural area, I developed a fondness for the outdoors. I enjoy spending time hiking, hunting, and fishing."
-      ]
-    },
-    {
-      "name": "Martial Arts",
-      "keywords": [
-        "I was introduced to Brazilian Jiu-Jitsu while attending Oklahoma State University. I joined the club hoping it would be an active hobby I would enjoy. This introduction blossomed into a love of the sport, and I attend classes regularly in my available time."
+        "When given the chance I enjoy rock climbing both indoors and outdoors."
       ]
     }
   ],
   "references": [
     {
-      "name": "Trevor Hermosillo",
-      "company": "Google",
-      "position": "Hardware Engineer",
-      "phone": "(918)863-9365",
-      "email": "thermosillo@google.com"
-    },
-    {
-      "name": "Ryan Garret",
-      "company": "QuickTrip",
-      "position": "Sr Cyber Security Analyst",
-      "phone": "(918)863-9365",
-      "email": "ryanjamesgarrett@gmail.com"
+      "name": "Chris Stewart",
+      "company": "Bluefin",
+      "position": "Director of Quality Assurance and Integrations",
+      "phone": "(918)720-3271",
+      "email": "chris@runslinux.com"
     },
     {
       "name": "Chris Miyata",
@@ -146,6 +125,13 @@
       "position": "Product Manager Debit Card",
       "phone": "(918)508-9830",
       "email": "chrismiyata@gmail.com"
+    },
+    {
+      "name": "Trevor Hermosillo",
+      "company": "Google",
+      "position": "Hardware Engineer",
+      "phone": "(918)863-9365",
+      "email": "thermosillo@google.com"
     }
   ]
 }

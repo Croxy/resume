@@ -9,8 +9,8 @@ $json_resume = file_get_contents('resume.json');
 <!-- The current iteration is a working prototype for a system I plan on building to help automate creating a resume online                   -->
 <!-- This idea came about when I wanted to update my resume but use JSON. I found https://jsonresume.org/ and it gave me a good starting point-->
 <!-- I modified the JSON Resume specification to fit my specific needs. Future iterations will likely adhere to specification more strictly.  -->
-<!-- I make use of the Handlebars.js templating engine and moment.js libraries in this project currently.                                     -->
-<!-- My future plans are to move to a more full-featured front-end frame work (likely Vue.JS) for handling the templating.                     -->
+<!-- I make use of the Handlebars.js template engine and moment.js libraries in this project currently.                                     -->
+<!-- My future plans are to move to a more full-featured front-end frame work (likely Vue.JS) for handling the template.                     -->
 <!-- I also plan to develop a back-end component where a user could elect to save the resume (and revision history).                          -->
 
 <title>Ryan Cox Resume</title>
